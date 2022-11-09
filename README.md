@@ -13,6 +13,9 @@ Restaurant has wide variety for foods and drinks. Food categories includes appet
 
 Restaurant have many japanese food that can be eaten according to customers' need. They have gluten-free, vegetarian and halal types for different foods which will widen the restaurant's auidence.
 
+## Sitemap
+![Sitemap](images/sitemap.png)
+
 ## Single Types
 - Home Page
     - Fields:

@@ -86,7 +86,7 @@ Restaurant have many japanese food that can be eaten according to customers' nee
 - Food Menu Items
     ![Example of Food Items](images/food-items-example.png)
     - Fields:
-        - Category: Relation - one-to-many
+        - Category: Relation(with type of food) - one-to-many
         - Type: Enumeration
         - Dish Name: Small Text
         - Price: Number(decimal)
@@ -98,7 +98,7 @@ Restaurant have many japanese food that can be eaten according to customers' nee
 - Drink Menu Items
     ![Example of Drink Items](images/drink-items-example.png)
     - Fields:
-        - Category: Relation - one-to-many
+        - Category: Relation(with type of drink) - one-to-many
         - Type: Enumeration
         - Drink Name: Small Text
         - Amount: Number(decimal)

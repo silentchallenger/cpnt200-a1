@@ -42,14 +42,15 @@ Restaurant have many japanese food that can be eaten according to customers' nee
     - Fields:
         - Title: Small Text
         - Image: Media - image
-        - External link: Long text(clickable on image)
+        - External link: Small text(clickable on image)
             - Could not be text at all?
 - Location
     - Fields:
         - Description: Long Text
         - Address: Small Text
         - Hours: Small Text
-        - Map: Media?
+        - Map: Custom Field(for plugin)
+            - Could be media or something else?
 - About Us
     - Fields:
         - Title: Small Text
